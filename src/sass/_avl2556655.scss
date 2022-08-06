@@ -1,0 +1,57 @@
+// Colors
+$color-white: #ffffff;
+$color-black: #000000;
+
+// Основний колір текста
+$color-text-main: #907e82;
+
+//колір заголовків та більшості кнопок, іконки соцмереж при ховері, текст світлих кнопок
+$color-accent-main: #d41443;
+
+// колір другорядних заголовків, псевдоелемента героя
+$color-subtitle: #ffa5ba;
+
+// Альтернативний колір кнопок в секції локацій
+$color-accent-location: #d41342;
+
+// колір кнопок при ховері
+$btn-hover: #ecebeb;
+
+// Фон секцій
+$bg-section-main: #e5e5e5;
+$bg-section-secondary: #fff5f6;
+$bg-section-comment: #fafafa;
+
+// Фон героя, product-card1
+$bg-pink-hero: #ffb8ca;
+
+// Фон мобільного меню
+$bg-mobile-menu: #e17992;
+
+//Іконки соцмереж
+$color-socials: #fea5bb;
+
+// Product cards
+$color-product-card2: #f0d1a5;
+$color-product-card3: #c2e297;
+
+// Лапки в слайдері
+$color-slider-quotes: #e1e1e1;
+
+// Пагінація слайдера
+$color-slider-dots: #c7133e;
+
+// Будиночок слайдера
+$color-slider-home: #d31342;
+
+// Тінь карток
+$box-shadow: 0px 8px 30px rgba(212, 20, 67, 0.1);
+
+// Змінні для шрифтів
+$font-family: 'DM Sans', sans-serif;
+$font-family-second: 'Titan One', cursive;
+$font-size: 14px;
+
+// Переходи та анімація
+$transition-duration: 250ms;
+$timing-function: cubic-bezier(0.4, 0, 0.2, 1);
